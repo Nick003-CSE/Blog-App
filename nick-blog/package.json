@@ -1,5 +1,6 @@
 {
   "name": "nick-blog",
+  "homepage": "https://Nick003-CSE.github.io/blog-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
